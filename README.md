@@ -1,5 +1,7 @@
 # MongoDB Project Setup
 
+THe document is also at https://your-username.github.io/buyer-mongodb-api-docs/
+
 ## Overview
 This document provides a step-by-step guide to setting up a MongoDB-based backend project with Express.js and Mongoose. It includes the necessary folder structure and a script to automate the creation of required files and directories.
 
@@ -96,4 +98,5 @@ npm install express mongoose dotenv body-parser cors nodemon
 ```
 
 Then, proceed to implement the database connection, controllers, and API routes.
+
 
